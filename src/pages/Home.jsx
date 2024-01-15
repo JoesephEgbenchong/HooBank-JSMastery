@@ -3,7 +3,9 @@ import React from 'react'
 export default function Home() {
   return (
     <>
-        <h1 className='font-bold'>The canvas awaits the artists</h1>
+        <div className=''>
+            <h1 className='text-center text-3xl text-red-400 text-bold mt-20'>Hello World</h1>
+        </div>
     </>
   )
 }
