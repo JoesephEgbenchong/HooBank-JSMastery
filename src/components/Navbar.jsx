@@ -11,7 +11,7 @@ export default function Navbar() {
   return (
     <nav className='flex w-full py-6 justify-between items-center navbar'>
       {/** Start of Navbar implementation for Desktop services */}
-      <img src={logo} alt='hoobank' className='w-[124px] h-[32px]' />
+      <img src={logo} alt='hoobank' className='w-[124px] h-[32px] cursor-pointer' />
 
       <ul className='list-none sm:flex hidden justify-end items-center'>
         {navLinks.map((nav, index) => (
