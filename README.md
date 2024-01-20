@@ -17,4 +17,4 @@ Figma (Designed by oneweekwonders) : https://www.figma.com/file/bUGIPys15E78w9bs
 
 <img src="src/previews/hoobank_sm_1.PNG" alt="Desktop_screen1" width="500"/>
 
-<img src="src/previews/hoobank_sm_1.PNG" alt="Desktop_screen1" width="500"/>
+<img src="src/previews/hoobank_sm_2.PNG" alt="Desktop_screen1" width="500"/>
