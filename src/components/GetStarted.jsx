@@ -5,7 +5,7 @@ import { arrowUp } from '../assets'
 export default function GetStarted() {
   return (
     <div className={`${styles.flexCenter} w-[140px] h-[140px] bg-blue-gradient rounded-full p-[2px] cursor-pointer`}>
-      <div className={`${styles.flexCenter} flex-col w-[100%] h-[100%] bg-primary rounded-full hover:bg-secondary`}>
+      <div className={`${styles.flexCenter} flex-col w-[100%] h-[100%] bg-primary rounded-full`}>
         <div className={`${styles.flexStart} flex-row`}>
           <p className='flex font-poppins font-medium text-[18px] leading-[23px]'>
             <span className='text-gradient mr-2'>Get</span>
